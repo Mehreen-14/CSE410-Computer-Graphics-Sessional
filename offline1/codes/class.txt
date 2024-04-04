@@ -1,0 +1,5 @@
+1. GLUT file add korte hobe
+2. init() function for initialization
+3. display te buffer flush (glFlush())
+4. color clear kore dite hobe (glClear())
+5. age clear then flush (eta monitor e pathanor jonno)
